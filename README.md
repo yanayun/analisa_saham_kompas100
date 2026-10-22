@@ -32,6 +32,7 @@ Model belum ada? Tambahkan `--retrain`:
 | Langkah | Script | Keluaran |
 |---|---|---|
 | 1. Unduh harga | `download_data.py` | `data/<KODE>.csv` (100 saham + IHSG) |
+| 1b. Perbarui bar hari ini | `download_data.py --refresh-today` | bar terakhir, ±14 detik |
 | 2. Feature engineering | `features.py` | `data/<KODE>_features.csv` |
 | 3. Latih model | `train.py` | `models/saham_model.joblib` |
 | 4. Prediksi harian | `predict.py` | `results/signals.csv` |
@@ -39,7 +40,8 @@ Model belum ada? Tambahkan `--retrain`:
 | — Backtest | `backtest.py` | `results/backtest_metrics.json` |
 | — Pilih model | `model_selection.py` | `results/model_selection.json` |
 
-Semua langkah 1–5 dijalankan oleh `daily.py`.
+Semua langkah 1–5 dijalankan oleh `daily.py`. Langkah 1 selalu memakai
+`--refresh-today`, sehingga bar hari ini selalu yang terbaru.
 
 ## Skoring
 
@@ -74,10 +76,23 @@ Cron Hermes menjalankan `~/.hermes/scripts/saham_harian.sh` **tiap jam**.
 Script tersebut memutuskan sendiri kapan mengirim — dihitung dalam **WIB**
 — sehingga tidak terpengaruh zona waktu server (yang mengikuti DST).
 
-* Jendela kirim: **06.45–08.30 WIB** (pagi) dan **13.15–14.45 WIB** (siang)
+* Jendela kirim: **06.45–08.30 WIB** (pagi, sebelum bursa buka) dan
+  **12.00–13.30 WIB** (siang, jam istirahat bursa)
+* Cron jalan tiap jam; yang masuk jendela adalah tick **07.00/08.00 WIB**
+  dan **12.00/13.00 WIB**
 * Tidak kirim Sabtu–Minggu
 * Penghitung `.last_pagi` / `.last_siang` mencegah kirim ganda
 * stdout hanya berisi pesan laporan; kosong = tidak ada kirim
+
+> **Data saat jam istirahat:** laporan siang memakai **penutupan sesi pagi**
+> (09.00–12.00 WIB), bukan penutupan hari sebelumnya. Bar harian hari itu
+> yang dikembalikan Yahoo pada jam istirahat memang berisi sesi pagi —
+> terlihat dari `Open`/`High`/`Low`/`Volume` yang hanya mencakup tiga bar
+> jam 09.00/10.00/11.00. `download_data.py --refresh-today` mengambil bar
+> tersebut untuk semua simbol sekaligus (±14 detik). Setelah bursa tutup,
+> bar yang sama tanggalnya diisi ulang dengan data penuh, sehingga laporan
+> keesokan paginya tidak memakai bar parsial.
+> Laporan menampilkan `(sesi pagi)` di baris ke-3 bila datanya masih parsial.
 
 Kelola jadwalnya:
 

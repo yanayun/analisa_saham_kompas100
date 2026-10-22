@@ -1,692 +1,692 @@
 {
-  "generated_at": "2026-10-22 09:59:13",
+  "generated_at": "2026-10-22 22:10:41",
   "model_threshold": 0.32,
   "n_stocks": 98,
   "signals": [
     {
-      "date": "2026-10-21",
-      "ticker": "IMPC",
-      "Close": 840.0,
-      "probability_up_3pct": 0.5497999787330627,
-      "signal": "PANTAU BUY"
-    },
-    {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "ticker": "CUAN",
-      "Close": 505.0,
-      "probability_up_3pct": 0.5389999747276306,
+      "Close": 496.0,
+      "probability_up_3pct": 0.5357999801635742,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "ticker": "BUVA",
-      "Close": 322.0,
-      "probability_up_3pct": 0.5264000296592712,
+      "Close": 314.0,
+      "probability_up_3pct": 0.5311999917030334,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "PTRO",
-      "Close": 3060.0,
-      "probability_up_3pct": 0.5156000256538391,
-      "signal": "PANTAU BUY"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "BNBR",
-      "Close": 50.0,
-      "probability_up_3pct": 0.5151000022888184,
-      "signal": "PANTAU BUY"
-    },
-    {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "ticker": "RATU",
-      "Close": 2490.0,
-      "probability_up_3pct": 0.5077999830245972,
+      "Close": 2520.0,
+      "probability_up_3pct": 0.5289999842643738,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "BIPI",
-      "Close": 85.0,
-      "probability_up_3pct": 0.49869999289512634,
+      "date": "2026-10-22",
+      "ticker": "IMPC",
+      "Close": 830.0,
+      "probability_up_3pct": 0.5202000141143799,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "INET",
-      "Close": 184.0,
-      "probability_up_3pct": 0.4912000000476837,
+      "date": "2026-10-22",
+      "ticker": "BNBR",
+      "Close": 53.0,
+      "probability_up_3pct": 0.5128999948501587,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
+      "ticker": "PTRO",
+      "Close": 3070.0,
+      "probability_up_3pct": 0.507099986076355,
+      "signal": "PANTAU BUY"
+    },
+    {
+      "date": "2026-10-22",
       "ticker": "DEWA",
       "Close": 258.0,
-      "probability_up_3pct": 0.46970000863075256,
+      "probability_up_3pct": 0.47510001063346863,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "ENRG",
-      "Close": 810.0,
-      "probability_up_3pct": 0.46140000224113464,
-      "signal": "PANTAU BUY"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "BULL",
-      "Close": 262.0,
-      "probability_up_3pct": 0.4546999931335449,
-      "signal": "PANTAU BUY"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "RAJA",
-      "Close": 470.0,
-      "probability_up_3pct": 0.45339998602867126,
-      "signal": "PANTAU BUY"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "MINA",
-      "Close": 144.0,
-      "probability_up_3pct": 0.44519999623298645,
-      "signal": "PANTAU BUY"
-    },
-    {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "ticker": "ARTO",
-      "Close": 600.0,
-      "probability_up_3pct": 0.4318000078201294,
+      "Close": 610.0,
+      "probability_up_3pct": 0.47029998898506165,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
+      "ticker": "RAJA",
+      "Close": 478.0,
+      "probability_up_3pct": 0.4634000062942505,
+      "signal": "PANTAU BUY"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "ENRG",
+      "Close": 815.0,
+      "probability_up_3pct": 0.4498000144958496,
+      "signal": "PANTAU BUY"
+    },
+    {
+      "date": "2026-10-22",
       "ticker": "TPIA",
       "Close": 1340.0,
-      "probability_up_3pct": 0.4284999966621399,
+      "probability_up_3pct": 0.430400013923645,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "TOBA",
-      "Close": 334.0,
-      "probability_up_3pct": 0.42750000953674316,
-      "signal": "PANTAU BUY"
-    },
-    {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "ticker": "WIFI",
-      "Close": 1140.0,
-      "probability_up_3pct": 0.4250999987125397,
+      "Close": 1110.0,
+      "probability_up_3pct": 0.4260999858379364,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
+      "ticker": "GOTO",
+      "Close": 25.0,
+      "probability_up_3pct": 0.41780000925064087,
+      "signal": "PANTAU BUY"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "BULL",
+      "Close": 290.0,
+      "probability_up_3pct": 0.41350001096725464,
+      "signal": "PANTAU BUY"
+    },
+    {
+      "date": "2026-10-22",
       "ticker": "MBMA",
-      "Close": 346.0,
-      "probability_up_3pct": 0.4205000102519989,
+      "Close": 362.0,
+      "probability_up_3pct": 0.40709999203681946,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "SSIA",
-      "Close": 1290.0,
-      "probability_up_3pct": 0.4065000116825104,
+      "date": "2026-10-22",
+      "ticker": "KPIG",
+      "Close": 30.0,
+      "probability_up_3pct": 0.4058000147342682,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "WIRG",
-      "Close": 45.0,
-      "probability_up_3pct": 0.39329999685287476,
+      "date": "2026-10-22",
+      "ticker": "KIJA",
+      "Close": 127.0,
+      "probability_up_3pct": 0.40209999680519104,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "EXCL",
-      "Close": 1760.0,
-      "probability_up_3pct": 0.38989999890327454,
+      "date": "2026-10-22",
+      "ticker": "BIPI",
+      "Close": 93.0,
+      "probability_up_3pct": 0.4020000100135803,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "MAPI",
-      "Close": 1255.0,
-      "probability_up_3pct": 0.3869999945163727,
+      "date": "2026-10-22",
+      "ticker": "INET",
+      "Close": 185.0,
+      "probability_up_3pct": 0.40149998664855957,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "INDY",
-      "Close": 2120.0,
-      "probability_up_3pct": 0.3840999901294708,
-      "signal": "PANTAU BUY"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "BFIN",
-      "Close": 745.0,
-      "probability_up_3pct": 0.3840000033378601,
-      "signal": "PANTAU BUY"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "BRIS",
-      "Close": 1040.0,
-      "probability_up_3pct": 0.3833000063896179,
-      "signal": "PANTAU BUY"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "PSAB",
-      "Close": 434.0,
-      "probability_up_3pct": 0.3824000060558319,
-      "signal": "PANTAU BUY"
-    },
-    {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "ticker": "BKSL",
       "Close": 46.0,
-      "probability_up_3pct": 0.38199999928474426,
+      "probability_up_3pct": 0.39250001311302185,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "KPIG",
-      "Close": 31.0,
+      "date": "2026-10-22",
+      "ticker": "MINA",
+      "Close": 148.0,
+      "probability_up_3pct": 0.3905999958515167,
+      "signal": "PANTAU BUY"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "BBTN",
+      "Close": 975.0,
+      "probability_up_3pct": 0.38850000500679016,
+      "signal": "PANTAU BUY"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "MDKA",
+      "Close": 2240.0,
       "probability_up_3pct": 0.3817000091075897,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "MDKA",
-      "Close": 2200.0,
-      "probability_up_3pct": 0.3806000053882599,
-      "signal": "PANTAU BUY"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "ISAT",
-      "Close": 1785.0,
-      "probability_up_3pct": 0.3783999979496002,
-      "signal": "PANTAU BUY"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "BBTN",
-      "Close": 940.0,
-      "probability_up_3pct": 0.37770000100135803,
-      "signal": "PANTAU BUY"
-    },
-    {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "ticker": "JSMR",
-      "Close": 2350.0,
-      "probability_up_3pct": 0.3763999938964844,
+      "Close": 2470.0,
+      "probability_up_3pct": 0.375,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "GOTO",
-      "Close": 26.0,
-      "probability_up_3pct": 0.37549999356269836,
+      "date": "2026-10-22",
+      "ticker": "INKP",
+      "Close": 7000.0,
+      "probability_up_3pct": 0.3741999864578247,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "KIJA",
-      "Close": 125.0,
-      "probability_up_3pct": 0.3752000033855438,
+      "date": "2026-10-22",
+      "ticker": "WIRG",
+      "Close": 47.0,
+      "probability_up_3pct": 0.374099999666214,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "ANTM",
-      "Close": 2720.0,
-      "probability_up_3pct": 0.37119999527931213,
+      "date": "2026-10-22",
+      "ticker": "EXCL",
+      "Close": 1800.0,
+      "probability_up_3pct": 0.3684999942779541,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "HRUM",
-      "Close": 730.0,
-      "probability_up_3pct": 0.36730000376701355,
-      "signal": "PANTAU BUY"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "ADMR",
-      "Close": 1230.0,
-      "probability_up_3pct": 0.3646000027656555,
-      "signal": "PANTAU BUY"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "MIKA",
-      "Close": 1380.0,
-      "probability_up_3pct": 0.3612000048160553,
-      "signal": "PANTAU BUY"
-    },
-    {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "ticker": "BRPT",
-      "Close": 1485.0,
-      "probability_up_3pct": 0.35589998960494995,
+      "Close": 1440.0,
+      "probability_up_3pct": 0.36649999022483826,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "JPFA",
-      "Close": 1750.0,
-      "probability_up_3pct": 0.3499000072479248,
+      "date": "2026-10-22",
+      "ticker": "SSIA",
+      "Close": 1305.0,
+      "probability_up_3pct": 0.36489999294281006,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "AMMN",
-      "Close": 3740.0,
+      "date": "2026-10-22",
+      "ticker": "BRMS",
+      "Close": 432.0,
+      "probability_up_3pct": 0.3619000017642975,
+      "signal": "PANTAU BUY"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "ESSA",
+      "Close": 515.0,
+      "probability_up_3pct": 0.36010000109672546,
+      "signal": "PANTAU BUY"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "INDY",
+      "Close": 2160.0,
+      "probability_up_3pct": 0.3589000105857849,
+      "signal": "PANTAU BUY"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "MAPA",
+      "Close": 585.0,
       "probability_up_3pct": 0.34940001368522644,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
+      "ticker": "BFIN",
+      "Close": 815.0,
+      "probability_up_3pct": 0.34769999980926514,
+      "signal": "PANTAU BUY"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "ANTM",
+      "Close": 2840.0,
+      "probability_up_3pct": 0.3449999988079071,
+      "signal": "PANTAU BUY"
+    },
+    {
+      "date": "2026-10-22",
       "ticker": "BBYB",
-      "Close": 163.0,
-      "probability_up_3pct": 0.3488999903202057,
-      "signal": "PANTAU BUY"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "AMRT",
-      "Close": 1050.0,
-      "probability_up_3pct": 0.34689998626708984,
-      "signal": "PANTAU BUY"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "BRMS",
-      "Close": 444.0,
-      "probability_up_3pct": 0.34540000557899475,
-      "signal": "PANTAU BUY"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "BUMI",
-      "Close": 135.0,
-      "probability_up_3pct": 0.34380000829696655,
-      "signal": "PANTAU BUY"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "HRTA",
-      "Close": 1595.0,
+      "Close": 166.0,
       "probability_up_3pct": 0.3431999981403351,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "BBCA",
-      "Close": 5275.0,
-      "probability_up_3pct": 0.3411000072956085,
+      "date": "2026-10-22",
+      "ticker": "BRIS",
+      "Close": 1025.0,
+      "probability_up_3pct": 0.34310001134872437,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "TINS",
-      "Close": 3780.0,
-      "probability_up_3pct": 0.329800009727478,
+      "date": "2026-10-22",
+      "ticker": "ARCI",
+      "Close": 1040.0,
+      "probability_up_3pct": 0.34150001406669617,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "RMKE",
-      "Close": 306.0,
+      "date": "2026-10-22",
+      "ticker": "ISAT",
+      "Close": 1820.0,
+      "probability_up_3pct": 0.33570000529289246,
+      "signal": "PANTAU BUY"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "UNVR",
+      "Close": 1415.0,
+      "probability_up_3pct": 0.3343000113964081,
+      "signal": "PANTAU BUY"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "BUMI",
+      "Close": 139.0,
+      "probability_up_3pct": 0.33250001072883606,
+      "signal": "PANTAU BUY"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "PSAB",
+      "Close": 440.0,
+      "probability_up_3pct": 0.3319999873638153,
+      "signal": "PANTAU BUY"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "ADMR",
+      "Close": 1265.0,
+      "probability_up_3pct": 0.3312999904155731,
+      "signal": "PANTAU BUY"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "AMRT",
+      "Close": 1080.0,
       "probability_up_3pct": 0.3280999958515167,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "ARCI",
-      "Close": 1000.0,
-      "probability_up_3pct": 0.32359999418258667,
+      "date": "2026-10-22",
+      "ticker": "TINS",
+      "Close": 3840.0,
+      "probability_up_3pct": 0.3253999948501587,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "MAPA",
-      "Close": 545.0,
-      "probability_up_3pct": 0.323199987411499,
+      "date": "2026-10-22",
+      "ticker": "HRTA",
+      "Close": 1640.0,
+      "probability_up_3pct": 0.32409998774528503,
       "signal": "PANTAU BUY"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "INKP",
-      "Close": 7075.0,
-      "probability_up_3pct": 0.32120001316070557,
-      "signal": "PANTAU BUY"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "ESSA",
-      "Close": 520.0,
-      "probability_up_3pct": 0.3181999921798706,
+      "date": "2026-10-22",
+      "ticker": "HRUM",
+      "Close": 730.0,
+      "probability_up_3pct": 0.31470000743865967,
       "signal": "PANTAU SELL"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "HEAL",
-      "Close": 505.0,
-      "probability_up_3pct": 0.3176000118255615,
-      "signal": "PANTAU SELL"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "AKRA",
-      "Close": 1295.0,
-      "probability_up_3pct": 0.31439998745918274,
-      "signal": "PANTAU SELL"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "INCO",
-      "Close": 3710.0,
-      "probability_up_3pct": 0.31349998712539673,
-      "signal": "PANTAU SELL"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "UNVR",
-      "Close": 1370.0,
-      "probability_up_3pct": 0.313400000333786,
-      "signal": "PANTAU SELL"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "SMRA",
-      "Close": 254.0,
+      "date": "2026-10-22",
+      "ticker": "TLKM",
+      "Close": 2200.0,
       "probability_up_3pct": 0.3125,
       "signal": "PANTAU SELL"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "NCKL",
-      "Close": 795.0,
-      "probability_up_3pct": 0.30799999833106995,
+      "date": "2026-10-22",
+      "ticker": "HEAL",
+      "Close": 500.0,
+      "probability_up_3pct": 0.3102000057697296,
       "signal": "PANTAU SELL"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
+      "ticker": "SGER",
+      "Close": 800.0,
+      "probability_up_3pct": 0.30790001153945923,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "SMRA",
+      "Close": 256.0,
+      "probability_up_3pct": 0.30720001459121704,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "INCO",
+      "Close": 3850.0,
+      "probability_up_3pct": 0.30320000648498535,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "EMTK",
+      "Close": 348.0,
+      "probability_up_3pct": 0.3012000024318695,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "AKRA",
+      "Close": 1320.0,
+      "probability_up_3pct": 0.3009999990463257,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "TOBA",
+      "Close": 416.0,
+      "probability_up_3pct": 0.3001999855041504,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "CPIN",
+      "Close": 2720.0,
+      "probability_up_3pct": 0.29789999127388,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
       "ticker": "SMGR",
-      "Close": 1340.0,
-      "probability_up_3pct": 0.30709999799728394,
+      "Close": 1380.0,
+      "probability_up_3pct": 0.29580000042915344,
       "signal": "PANTAU SELL"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "SMIL",
-      "Close": 440.0,
-      "probability_up_3pct": 0.30489999055862427,
-      "signal": "PANTAU SELL"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "ICBP",
-      "Close": 6075.0,
-      "probability_up_3pct": 0.303600013256073,
-      "signal": "PANTAU SELL"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "PNLF",
-      "Close": 164.0,
-      "probability_up_3pct": 0.29589998722076416,
-      "signal": "PANTAU SELL"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "BMRI",
-      "Close": 3700.0,
+      "date": "2026-10-22",
+      "ticker": "DSNG",
+      "Close": 1345.0,
       "probability_up_3pct": 0.2944999933242798,
       "signal": "PANTAU SELL"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "CPIN",
-      "Close": 2740.0,
-      "probability_up_3pct": 0.2892000079154968,
+      "date": "2026-10-22",
+      "ticker": "JPFA",
+      "Close": 1780.0,
+      "probability_up_3pct": 0.2930999994277954,
       "signal": "PANTAU SELL"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "TLKM",
-      "Close": 2120.0,
-      "probability_up_3pct": 0.2890999913215637,
-      "signal": "PANTAU SELL"
-    },
-    {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "ticker": "BBRI",
-      "Close": 2810.0,
-      "probability_up_3pct": 0.28790000081062317,
+      "Close": 2900.0,
+      "probability_up_3pct": 0.2930999994277954,
       "signal": "PANTAU SELL"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "EMTK",
-      "Close": 340.0,
-      "probability_up_3pct": 0.28700000047683716,
-      "signal": "PANTAU SELL"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "DSNG",
-      "Close": 1360.0,
-      "probability_up_3pct": 0.2842000126838684,
-      "signal": "PANTAU SELL"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "PANI",
-      "Close": 4530.0,
-      "probability_up_3pct": 0.28380000591278076,
-      "signal": "PANTAU SELL"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "ERAA",
-      "Close": 570.0,
-      "probability_up_3pct": 0.27900001406669617,
-      "signal": "PANTAU SELL"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "BBNI",
-      "Close": 3250.0,
-      "probability_up_3pct": 0.26829999685287476,
-      "signal": "PANTAU SELL"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "LSIP",
-      "Close": 1405.0,
-      "probability_up_3pct": 0.2644999921321869,
-      "signal": "PANTAU SELL"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "CBDK",
-      "Close": 3400.0,
-      "probability_up_3pct": 0.2619999945163727,
-      "signal": "PANTAU SELL"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "KLBF",
-      "Close": 695.0,
-      "probability_up_3pct": 0.26080000400543213,
-      "signal": "PANTAU SELL"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "PGAS",
-      "Close": 1335.0,
-      "probability_up_3pct": 0.259799987077713,
-      "signal": "PANTAU SELL"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "PTBA",
-      "Close": 3110.0,
-      "probability_up_3pct": 0.25609999895095825,
-      "signal": "PANTAU SELL"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "BUKA",
-      "Close": 111.0,
-      "probability_up_3pct": 0.2547000050544739,
-      "signal": "PANTAU SELL"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "ELSA",
-      "Close": 630.0,
-      "probability_up_3pct": 0.2502000033855438,
-      "signal": "PANTAU SELL"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "TAPG",
-      "Close": 1910.0,
-      "probability_up_3pct": 0.24719999730587006,
-      "signal": "PANTAU SELL"
-    },
-    {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "ticker": "SCMA",
       "Close": 155.0,
-      "probability_up_3pct": 0.24690000712871552,
+      "probability_up_3pct": 0.29269999265670776,
       "signal": "PANTAU SELL"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "MYOR",
-      "Close": 1385.0,
-      "probability_up_3pct": 0.24609999358654022,
+      "date": "2026-10-22",
+      "ticker": "NCKL",
+      "Close": 785.0,
+      "probability_up_3pct": 0.2921000123023987,
       "signal": "PANTAU SELL"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "PGEO",
-      "Close": 1000.0,
-      "probability_up_3pct": 0.2434999942779541,
+      "date": "2026-10-22",
+      "ticker": "BBCA",
+      "Close": 5175.0,
+      "probability_up_3pct": 0.28949999809265137,
       "signal": "PANTAU SELL"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
+      "ticker": "RMKE",
+      "Close": 306.0,
+      "probability_up_3pct": 0.28690001368522644,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "MIKA",
+      "Close": 1410.0,
+      "probability_up_3pct": 0.28529998660087585,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "BMRI",
+      "Close": 3850.0,
+      "probability_up_3pct": 0.28450000286102295,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "ASII",
+      "Close": 4450.0,
+      "probability_up_3pct": 0.2818000018596649,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "AMMN",
+      "Close": 3950.0,
+      "probability_up_3pct": 0.2818000018596649,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
       "ticker": "BSDE",
-      "Close": 490.0,
+      "Close": 500.0,
+      "probability_up_3pct": 0.2800000011920929,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "PNLF",
+      "Close": 168.0,
+      "probability_up_3pct": 0.2768999934196472,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "MAPI",
+      "Close": 1390.0,
+      "probability_up_3pct": 0.27559998631477356,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "ERAA",
+      "Close": 580.0,
+      "probability_up_3pct": 0.274399995803833,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "SMIL",
+      "Close": 456.0,
+      "probability_up_3pct": 0.26649999618530273,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "CBDK",
+      "Close": 3360.0,
+      "probability_up_3pct": 0.26170000433921814,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "ICBP",
+      "Close": 6000.0,
+      "probability_up_3pct": 0.2596000134944916,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "TAPG",
+      "Close": 1880.0,
+      "probability_up_3pct": 0.25279998779296875,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "BUKA",
+      "Close": 109.0,
+      "probability_up_3pct": 0.2526000142097473,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "PGAS",
+      "Close": 1370.0,
+      "probability_up_3pct": 0.2522999942302704,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "PGEO",
+      "Close": 1005.0,
+      "probability_up_3pct": 0.24619999527931213,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "LSIP",
+      "Close": 1445.0,
+      "probability_up_3pct": 0.24320000410079956,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "KLBF",
+      "Close": 720.0,
       "probability_up_3pct": 0.24009999632835388,
       "signal": "PANTAU SELL"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "ticker": "ADRO",
-      "Close": 2400.0,
-      "probability_up_3pct": 0.23649999499320984,
+      "Close": 2440.0,
+      "probability_up_3pct": 0.23549999296665192,
       "signal": "PANTAU SELL"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "PWON",
-      "Close": 278.0,
-      "probability_up_3pct": 0.23600000143051147,
+      "date": "2026-10-22",
+      "ticker": "BBNI",
+      "Close": 3410.0,
+      "probability_up_3pct": 0.2354000061750412,
       "signal": "PANTAU SELL"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "CMRY",
-      "Close": 4250.0,
+      "date": "2026-10-22",
+      "ticker": "MYOR",
+      "Close": 1385.0,
       "probability_up_3pct": 0.23489999771118164,
       "signal": "PANTAU SELL"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "SGER",
-      "Close": 755.0,
-      "probability_up_3pct": 0.23330000042915344,
+      "date": "2026-10-22",
+      "ticker": "CMRY",
+      "Close": 4210.0,
+      "probability_up_3pct": 0.22930000722408295,
       "signal": "PANTAU SELL"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "ticker": "GGRM",
-      "Close": 16500.0,
-      "probability_up_3pct": 0.2272000014781952,
+      "Close": 16750.0,
+      "probability_up_3pct": 0.22789999842643738,
       "signal": "PANTAU SELL"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "MEDC",
-      "Close": 1410.0,
+      "date": "2026-10-22",
+      "ticker": "PANI",
+      "Close": 4420.0,
+      "probability_up_3pct": 0.227400004863739,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "PWON",
+      "Close": 280.0,
+      "probability_up_3pct": 0.22599999606609344,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "TOWR",
+      "Close": 416.0,
       "probability_up_3pct": 0.22589999437332153,
       "signal": "PANTAU SELL"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
+      "ticker": "ELSA",
+      "Close": 660.0,
+      "probability_up_3pct": 0.22059999406337738,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
       "ticker": "AADI",
-      "Close": 11100.0,
-      "probability_up_3pct": 0.225600004196167,
+      "Close": 11300.0,
+      "probability_up_3pct": 0.21209999918937683,
       "signal": "PANTAU SELL"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "TOWR",
-      "Close": 406.0,
-      "probability_up_3pct": 0.219200000166893,
-      "signal": "PANTAU SELL"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "ASII",
-      "Close": 4560.0,
-      "probability_up_3pct": 0.21080000698566437,
-      "signal": "PANTAU SELL"
-    },
-    {
-      "date": "2026-10-21",
-      "ticker": "CTRA",
-      "Close": 570.0,
-      "probability_up_3pct": 0.20630000531673431,
-      "signal": "PANTAU SELL"
-    },
-    {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "ticker": "UNTR",
-      "Close": 24000.0,
-      "probability_up_3pct": 0.19769999384880066,
+      "Close": 24300.0,
+      "probability_up_3pct": 0.21089999377727509,
       "signal": "PANTAU SELL"
     },
     {
-      "date": "2026-10-21",
-      "ticker": "ACES",
-      "Close": 338.0,
-      "probability_up_3pct": 0.16859999299049377,
+      "date": "2026-10-22",
+      "ticker": "CTRA",
+      "Close": 575.0,
+      "probability_up_3pct": 0.2101999968290329,
       "signal": "PANTAU SELL"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
+      "ticker": "PTBA",
+      "Close": 3180.0,
+      "probability_up_3pct": 0.20430000126361847,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
+      "ticker": "MEDC",
+      "Close": 1450.0,
+      "probability_up_3pct": 0.19349999725818634,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
       "ticker": "INDF",
-      "Close": 6650.0,
-      "probability_up_3pct": 0.16050000488758087,
+      "Close": 6625.0,
+      "probability_up_3pct": 0.16089999675750732,
       "signal": "PANTAU SELL"
     },
     {
-      "date": "2026-10-21",
+      "date": "2026-10-22",
+      "ticker": "ACES",
+      "Close": 344.0,
+      "probability_up_3pct": 0.1509000062942505,
+      "signal": "PANTAU SELL"
+    },
+    {
+      "date": "2026-10-22",
       "ticker": "ITMG",
-      "Close": 24900.0,
-      "probability_up_3pct": 0.13220000267028809,
+      "Close": 25300.0,
+      "probability_up_3pct": 0.12300000339746475,
       "signal": "PANTAU SELL"
     }
   ]

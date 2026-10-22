@@ -23,7 +23,7 @@ Keluaran:
 
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 
 import numpy as np
 import pandas as pd
@@ -31,6 +31,14 @@ import pandas as pd
 import predict
 import sectors
 from features import FUTURE_RETURN_COLUMN
+
+# Server berada di UTC+8, sedangkan pasar Indonesia di UTC+7. Hitung waktu
+# WIB secara eksplisit supaya stempel waktu laporan tidak salah satu jam.
+WIB = timezone(timedelta(hours=7))
+
+
+def now_wib():
+    return datetime.now(WIB)
 
 RESULT_DIR = "results"
 REPORT_DIR = "reports"
@@ -235,7 +243,7 @@ def _snapshot(rec):
 
 def save_history(rec):
     os.makedirs(HISTORY_DIR, exist_ok=True)
-    stamp = pd.Timestamp.now().strftime("%Y-%m-%d")
+    stamp = now_wib().strftime("%Y-%m-%d")
     path = os.path.join(HISTORY_DIR, f"{stamp}.json")
     previous = {}
 
@@ -280,8 +288,16 @@ def model_stats():
 def format_message(rec, bundle, threshold, previous=None):
     os.makedirs(REPORT_DIR, exist_ok=True)
 
-    now = pd.Timestamp.now()
-    latest_date = rec["date"].max().strftime("%d %b %Y")
+    now = now_wib()
+    latest = rec["date"].max()
+    data_label = latest.strftime("%d %b %Y")
+    # Bar hari ini belum lengkap saat laporan dibuat: sebelum pukul 13.30 WIB
+    # isinya hanya sesi pagi, sesudahnya sudah bercampur sesi sore.
+    if latest.strftime("%Y-%m-%d") == now.strftime("%Y-%m-%d"):
+        if now.hour * 60 + now.minute < 13 * 60 + 30:
+            data_label += " (sesi pagi)"
+        else:
+            data_label += " (intraday)"
     stats = model_stats()
 
     buys = rec[rec["status"] == "BELI"]
@@ -292,7 +308,7 @@ def format_message(rec, bundle, threshold, previous=None):
     lines.append(
         f"{now.strftime('%A, %d %B %Y')} · {now.strftime('%H.%M')} WIB"
     )
-    lines.append(f"Model: XGBoost terkalibrasi · ambang {threshold:.0%} · data {latest_date}")
+    lines.append(f"Model: XGBoost terkalibrasi · ambang {threshold:.0%} · data {data_label}")
     lines.append(f"Saham dianalisa: {len(rec)}")
 
     if stats.get("precision"):
@@ -403,10 +419,13 @@ def main():
     rec[columns].to_csv(REC_CSV, index=False)
 
     payload = {
-        "generated_at": pd.Timestamp.now().strftime("%Y-%m-%d %H:%M:%S"),
+        "generated_at": now_wib().strftime("%Y-%m-%d %H:%M:%S"),
         "model_threshold": threshold,
         "scoring": {
-            "formula": "50 + 15*z_prob + 12*(teknikal_norm - 0.45)",
+            "formula": (
+                f"50 + {SCORE_MODEL_WEIGHT:g}*z_prob + "
+                f"{SCORE_TECH_WEIGHT:g}*(teknikal_norm - {SCORE_TECH_CENTER:g})"
+            ),
             "buy_score": BUY_SCORE,
             "watch_score": WATCH_SCORE,
         },

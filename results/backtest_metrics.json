@@ -1,42 +1,42 @@
 {
   "start_capital": 1000000000.0,
-  "end_capital": 144805984598.36005,
-  "total_return_pct": 14380.6,
-  "cagr_pct": 57.28,
-  "max_drawdown_pct": -35.19,
-  "total_trades": 5088,
-  "win_rate_pct": 54.5,
-  "avg_win_pct": 8.44,
-  "avg_loss_pct": -6.21,
-  "profit_factor": 1.63,
+  "end_capital": 194218143069.08765,
+  "total_return_pct": 19321.81,
+  "cagr_pct": 61.52,
+  "max_drawdown_pct": -36.31,
+  "total_trades": 5105,
+  "win_rate_pct": 54.34,
+  "avg_win_pct": 8.71,
+  "avg_loss_pct": -6.18,
+  "profit_factor": 1.68,
   "threshold": 0.32,
   "hold_days": 5,
   "cost_pct_per_side": 0.25,
   "max_positions": 10,
   "period": [
     "2015-10-26",
-    "2026-10-21"
+    "2026-10-22"
   ],
   "holdout": {
     "start_capital": 1000000000.0,
-    "end_capital": 1420955088.4285393,
-    "total_return_pct": 42.1,
-    "cagr_pct": 10.86,
-    "max_drawdown_pct": -35.19,
-    "total_trades": 1594,
-    "win_rate_pct": 46.74,
-    "avg_win_pct": 8.55,
-    "avg_loss_pct": -6.72,
-    "profit_factor": 1.12,
+    "end_capital": 1570920708.6498756,
+    "total_return_pct": 57.09,
+    "cagr_pct": 14.16,
+    "max_drawdown_pct": -36.31,
+    "total_trades": 1598,
+    "win_rate_pct": 47.68,
+    "avg_win_pct": 8.91,
+    "avg_loss_pct": -6.82,
+    "profit_factor": 1.19,
     "threshold": 0.32,
     "hold_days": 5,
     "cost_pct_per_side": 0.25,
     "max_positions": 10,
     "period": [
       "2023-05-25",
-      "2026-10-21"
+      "2026-10-22"
     ]
   },
-  "buy_and_hold_full_pct": 788.92,
-  "holdout_buy_and_hold_pct": 48.16
+  "buy_and_hold_full_pct": 805.93,
+  "holdout_buy_and_hold_pct": 51.0
 }

@@ -1,150 +1,150 @@
 {
   "model_type": "XGBClassifier",
   "threshold": 0.32,
-  "train_rows": 138632,
-  "validation_rows": 36623,
-  "test_rows": 39149,
+  "train_rows": 138719,
+  "validation_rows": 36631,
+  "test_rows": 39152,
   "train_period": [
     "2015-10-26",
-    "2023-05-10"
+    "2023-05-11"
   ],
   "validation_period": [
-    "2023-05-19",
-    "2025-01-17"
+    "2023-05-22",
+    "2025-01-20"
   ],
   "test_period": [
-    "2025-01-30",
-    "2026-10-14"
+    "2025-01-31",
+    "2026-10-15"
   ],
   "n_features": 28,
-  "positive_rate_test": 0.28864083373777105,
-  "accuracy": 0.6452272088686812,
-  "precision": 0.37053705370537054,
-  "recall": 0.32787610619469026,
-  "f1": 0.3479036574487065,
-  "roc_auc": 0.5971742729517622,
+  "positive_rate_test": 0.28826113608500203,
+  "accuracy": 0.6472210870453616,
+  "precision": 0.37559101654846333,
+  "recall": 0.3378522062732589,
+  "f1": 0.35572348166806605,
+  "roc_auc": 0.59795400493837,
   "confusion_matrix": [
     [
-      21555,
-      6294
+      21527,
+      6339
     ],
     [
-      7595,
-      3705
+      7473,
+      3813
     ]
   ],
   "feature_importance": [
     {
       "feature": "atr_pct",
-      "importance": 0.137253
+      "importance": 0.141343
     },
     {
       "feature": "volatility_60",
-      "importance": 0.076203
+      "importance": 0.074875
     },
     {
       "feature": "bb_width",
-      "importance": 0.052042
+      "importance": 0.053821
     },
     {
       "feature": "daily_range",
-      "importance": 0.047856
+      "importance": 0.047812
     },
     {
       "feature": "close_ma5",
-      "importance": 0.037649
-    },
-    {
-      "feature": "dist_high_60d",
-      "importance": 0.036102
-    },
-    {
-      "feature": "close_ma50",
-      "importance": 0.035951
+      "importance": 0.037267
     },
     {
       "feature": "close_ma20",
-      "importance": 0.035674
+      "importance": 0.036929
+    },
+    {
+      "feature": "dist_high_60d",
+      "importance": 0.036623
     },
     {
       "feature": "volatility_20",
-      "importance": 0.035627
+      "importance": 0.035452
+    },
+    {
+      "feature": "close_ma50",
+      "importance": 0.034436
     },
     {
       "feature": "close_ma200",
-      "importance": 0.033243
-    },
-    {
-      "feature": "macd",
-      "importance": 0.030476
+      "importance": 0.033693
     },
     {
       "feature": "return_60d",
-      "importance": 0.029926
+      "importance": 0.029891
     },
     {
-      "feature": "rsi_14",
+      "feature": "macd",
       "importance": 0.029875
     },
     {
       "feature": "close_ma10",
-      "importance": 0.029211
-    },
-    {
-      "feature": "volume_ratio",
-      "importance": 0.028594
-    },
-    {
-      "feature": "ma20_ma50",
-      "importance": 0.027799
-    },
-    {
-      "feature": "macd_signal",
-      "importance": 0.027784
-    },
-    {
-      "feature": "bb_position",
-      "importance": 0.027371
-    },
-    {
-      "feature": "rsi_6",
-      "importance": 0.027205
+      "importance": 0.029124
     },
     {
       "feature": "return_3d",
-      "importance": 0.026652
+      "importance": 0.028897
+    },
+    {
+      "feature": "rsi_14",
+      "importance": 0.028744
+    },
+    {
+      "feature": "volume_ratio",
+      "importance": 0.027889
+    },
+    {
+      "feature": "ma20_ma50",
+      "importance": 0.027764
+    },
+    {
+      "feature": "macd_signal",
+      "importance": 0.027613
+    },
+    {
+      "feature": "bb_position",
+      "importance": 0.026744
     },
     {
       "feature": "return_20d",
-      "importance": 0.025941
+      "importance": 0.02608
+    },
+    {
+      "feature": "rsi_6",
+      "importance": 0.025618
     },
     {
       "feature": "return_5d",
-      "importance": 0.025832
+      "importance": 0.024659
     },
     {
       "feature": "macd_hist",
-      "importance": 0.024837
+      "importance": 0.024595
     },
     {
       "feature": "rel_20d",
-      "importance": 0.023889
-    },
-    {
-      "feature": "ma5_ma20",
-      "importance": 0.023804
+      "importance": 0.024391
     },
     {
       "feature": "return_10d",
-      "importance": 0.023779
+      "importance": 0.023307
+    },
+    {
+      "feature": "ma5_ma20",
+      "importance": 0.022898
     },
     {
       "feature": "return_1d",
-      "importance": 0.02157
+      "importance": 0.021771
     },
     {
       "feature": "gap",
-      "importance": 0.017854
+      "importance": 0.017888
     }
   ],
   "features": [
