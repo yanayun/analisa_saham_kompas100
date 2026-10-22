@@ -1,0 +1,492 @@
+{
+  "AADI": {
+    "close": 11100.0,
+    "score": 33.9,
+    "status": "TAHAN"
+  },
+  "ACES": {
+    "close": 338.0,
+    "score": 28.1,
+    "status": "TAHAN"
+  },
+  "ADMR": {
+    "close": 1230.0,
+    "score": 47.2,
+    "status": "TAHAN"
+  },
+  "ADRO": {
+    "close": 2400.0,
+    "score": 33.2,
+    "status": "TAHAN"
+  },
+  "AKRA": {
+    "close": 1295.0,
+    "score": 42.5,
+    "status": "TAHAN"
+  },
+  "AMMN": {
+    "close": 3740.0,
+    "score": 44.7,
+    "status": "TAHAN"
+  },
+  "AMRT": {
+    "close": 1050.0,
+    "score": 44.2,
+    "status": "TAHAN"
+  },
+  "ANTM": {
+    "close": 2720.0,
+    "score": 53.3,
+    "status": "TAHAN"
+  },
+  "ARCI": {
+    "close": 1000.0,
+    "score": 40.3,
+    "status": "TAHAN"
+  },
+  "ARTO": {
+    "close": 600.0,
+    "score": 58.5,
+    "status": "TAHAN"
+  },
+  "ASII": {
+    "close": 4560.0,
+    "score": 28.9,
+    "status": "TAHAN"
+  },
+  "BBCA": {
+    "close": 5275.0,
+    "score": 45.8,
+    "status": "TAHAN"
+  },
+  "BBNI": {
+    "close": 3250.0,
+    "score": 38.6,
+    "status": "TAHAN"
+  },
+  "BBRI": {
+    "close": 2810.0,
+    "score": 39.3,
+    "status": "TAHAN"
+  },
+  "BBTN": {
+    "close": 940.0,
+    "score": 49.4,
+    "status": "TAHAN"
+  },
+  "BBYB": {
+    "close": 163.0,
+    "score": 44.6,
+    "status": "TAHAN"
+  },
+  "BFIN": {
+    "close": 745.0,
+    "score": 50.5,
+    "status": "TAHAN"
+  },
+  "BIPI": {
+    "close": 85.0,
+    "score": 69.7,
+    "status": "PERTIMBANGKAN"
+  },
+  "BKSL": {
+    "close": 46.0,
+    "score": 50.1,
+    "status": "TAHAN"
+  },
+  "BMRI": {
+    "close": 3700.0,
+    "score": 40.5,
+    "status": "TAHAN"
+  },
+  "BNBR": {
+    "close": 50.0,
+    "score": 72.5,
+    "status": "BELI"
+  },
+  "BRIS": {
+    "close": 1040.0,
+    "score": 49.1,
+    "status": "TAHAN"
+  },
+  "BRMS": {
+    "close": 444.0,
+    "score": 44.0,
+    "status": "TAHAN"
+  },
+  "BRPT": {
+    "close": 1485.0,
+    "score": 54.5,
+    "status": "TAHAN"
+  },
+  "BSDE": {
+    "close": 490.0,
+    "score": 28.8,
+    "status": "TAHAN"
+  },
+  "BUKA": {
+    "close": 111.0,
+    "score": 45.0,
+    "status": "TAHAN"
+  },
+  "BULL": {
+    "close": 262.0,
+    "score": 62.3,
+    "status": "PERTIMBANGKAN"
+  },
+  "BUMI": {
+    "close": 135.0,
+    "score": 43.7,
+    "status": "TAHAN"
+  },
+  "BUVA": {
+    "close": 322.0,
+    "score": 73.1,
+    "status": "BELI"
+  },
+  "CBDK": {
+    "close": 3400.0,
+    "score": 37.5,
+    "status": "TAHAN"
+  },
+  "CMRY": {
+    "close": 4250.0,
+    "score": 35.5,
+    "status": "TAHAN"
+  },
+  "CPIN": {
+    "close": 2740.0,
+    "score": 42.1,
+    "status": "TAHAN"
+  },
+  "CTRA": {
+    "close": 570.0,
+    "score": 36.9,
+    "status": "TAHAN"
+  },
+  "CUAN": {
+    "close": 505.0,
+    "score": 76.5,
+    "status": "BELI"
+  },
+  "DEWA": {
+    "close": 258.0,
+    "score": 64.8,
+    "status": "PERTIMBANGKAN"
+  },
+  "DSNG": {
+    "close": 1360.0,
+    "score": 36.2,
+    "status": "TAHAN"
+  },
+  "ELSA": {
+    "close": 630.0,
+    "score": 35.5,
+    "status": "TAHAN"
+  },
+  "EMTK": {
+    "close": 340.0,
+    "score": 34.2,
+    "status": "TAHAN"
+  },
+  "ENRG": {
+    "close": 810.0,
+    "score": 63.5,
+    "status": "PERTIMBANGKAN"
+  },
+  "ERAA": {
+    "close": 570.0,
+    "score": 42.9,
+    "status": "TAHAN"
+  },
+  "ESSA": {
+    "close": 520.0,
+    "score": 41.9,
+    "status": "TAHAN"
+  },
+  "EXCL": {
+    "close": 1760.0,
+    "score": 51.5,
+    "status": "TAHAN"
+  },
+  "GGRM": {
+    "close": 16500.0,
+    "score": 29.2,
+    "status": "TAHAN"
+  },
+  "GOTO": {
+    "close": 26.0,
+    "score": 47.8,
+    "status": "TAHAN"
+  },
+  "HEAL": {
+    "close": 505.0,
+    "score": 39.3,
+    "status": "TAHAN"
+  },
+  "HRTA": {
+    "close": 1595.0,
+    "score": 43.6,
+    "status": "TAHAN"
+  },
+  "HRUM": {
+    "close": 730.0,
+    "score": 47.7,
+    "status": "TAHAN"
+  },
+  "ICBP": {
+    "close": 6075.0,
+    "score": 42.0,
+    "status": "TAHAN"
+  },
+  "IMPC": {
+    "close": 840.0,
+    "score": 78.3,
+    "status": "BELI"
+  },
+  "INCO": {
+    "close": 3710.0,
+    "score": 37.4,
+    "status": "TAHAN"
+  },
+  "INDF": {
+    "close": 6650.0,
+    "score": 20.5,
+    "status": "TAHAN"
+  },
+  "INDY": {
+    "close": 2120.0,
+    "score": 50.5,
+    "status": "TAHAN"
+  },
+  "INET": {
+    "close": 184.0,
+    "score": 68.4,
+    "status": "PERTIMBANGKAN"
+  },
+  "INKP": {
+    "close": 7075.0,
+    "score": 42.4,
+    "status": "TAHAN"
+  },
+  "ISAT": {
+    "close": 1785.0,
+    "score": 49.5,
+    "status": "TAHAN"
+  },
+  "ITMG": {
+    "close": 24900.0,
+    "score": 18.2,
+    "status": "TAHAN"
+  },
+  "JPFA": {
+    "close": 1750.0,
+    "score": 44.7,
+    "status": "TAHAN"
+  },
+  "JSMR": {
+    "close": 2350.0,
+    "score": 51.7,
+    "status": "TAHAN"
+  },
+  "KIJA": {
+    "close": 125.0,
+    "score": 49.0,
+    "status": "TAHAN"
+  },
+  "KLBF": {
+    "close": 695.0,
+    "score": 37.3,
+    "status": "TAHAN"
+  },
+  "KPIG": {
+    "close": 31.0,
+    "score": 50.1,
+    "status": "TAHAN"
+  },
+  "LSIP": {
+    "close": 1405.0,
+    "score": 37.9,
+    "status": "TAHAN"
+  },
+  "MAPA": {
+    "close": 545.0,
+    "score": 39.0,
+    "status": "TAHAN"
+  },
+  "MAPI": {
+    "close": 1255.0,
+    "score": 56.0,
+    "status": "TAHAN"
+  },
+  "MBMA": {
+    "close": 346.0,
+    "score": 56.6,
+    "status": "TAHAN"
+  },
+  "MDKA": {
+    "close": 2200.0,
+    "score": 49.9,
+    "status": "TAHAN"
+  },
+  "MEDC": {
+    "close": 1410.0,
+    "score": 31.4,
+    "status": "TAHAN"
+  },
+  "MIKA": {
+    "close": 1380.0,
+    "score": 45.4,
+    "status": "TAHAN"
+  },
+  "MINA": {
+    "close": 144.0,
+    "score": 59.5,
+    "status": "TAHAN"
+  },
+  "MYOR": {
+    "close": 1385.0,
+    "score": 36.1,
+    "status": "TAHAN"
+  },
+  "NCKL": {
+    "close": 795.0,
+    "score": 42.7,
+    "status": "TAHAN"
+  },
+  "PANI": {
+    "close": 4530.0,
+    "score": 38.7,
+    "status": "TAHAN"
+  },
+  "PGAS": {
+    "close": 1335.0,
+    "score": 37.1,
+    "status": "TAHAN"
+  },
+  "PGEO": {
+    "close": 1000.0,
+    "score": 38.1,
+    "status": "TAHAN"
+  },
+  "PNLF": {
+    "close": 164.0,
+    "score": 35.7,
+    "status": "TAHAN"
+  },
+  "PSAB": {
+    "close": 434.0,
+    "score": 52.7,
+    "status": "TAHAN"
+  },
+  "PTBA": {
+    "close": 3110.0,
+    "score": 39.0,
+    "status": "TAHAN"
+  },
+  "PTRO": {
+    "close": 3060.0,
+    "score": 72.5,
+    "status": "BELI"
+  },
+  "PWON": {
+    "close": 278.0,
+    "score": 39.4,
+    "status": "TAHAN"
+  },
+  "RAJA": {
+    "close": 470.0,
+    "score": 62.1,
+    "status": "PERTIMBANGKAN"
+  },
+  "RATU": {
+    "close": 2490.0,
+    "score": 71.2,
+    "status": "PERTIMBANGKAN"
+  },
+  "RMKE": {
+    "close": 306.0,
+    "score": 41.1,
+    "status": "TAHAN"
+  },
+  "SCMA": {
+    "close": 155.0,
+    "score": 30.0,
+    "status": "TAHAN"
+  },
+  "SGER": {
+    "close": 755.0,
+    "score": 41.4,
+    "status": "TAHAN"
+  },
+  "SMGR": {
+    "close": 1340.0,
+    "score": 40.1,
+    "status": "TAHAN"
+  },
+  "SMIL": {
+    "close": 440.0,
+    "score": 50.9,
+    "status": "TAHAN"
+  },
+  "SMRA": {
+    "close": 254.0,
+    "score": 47.2,
+    "status": "TAHAN"
+  },
+  "SSIA": {
+    "close": 1290.0,
+    "score": 54.2,
+    "status": "TAHAN"
+  },
+  "TAPG": {
+    "close": 1910.0,
+    "score": 32.5,
+    "status": "TAHAN"
+  },
+  "TINS": {
+    "close": 3780.0,
+    "score": 43.9,
+    "status": "TAHAN"
+  },
+  "TLKM": {
+    "close": 2120.0,
+    "score": 39.5,
+    "status": "TAHAN"
+  },
+  "TOBA": {
+    "close": 334.0,
+    "score": 56.5,
+    "status": "TAHAN"
+  },
+  "TOWR": {
+    "close": 406.0,
+    "score": 30.3,
+    "status": "TAHAN"
+  },
+  "TPIA": {
+    "close": 1340.0,
+    "score": 57.9,
+    "status": "TAHAN"
+  },
+  "UNTR": {
+    "close": 24000.0,
+    "score": 29.2,
+    "status": "TAHAN"
+  },
+  "UNVR": {
+    "close": 1370.0,
+    "score": 43.6,
+    "status": "TAHAN"
+  },
+  "WIFI": {
+    "close": 1140.0,
+    "score": 57.4,
+    "status": "TAHAN"
+  },
+  "WIRG": {
+    "close": 45.0,
+    "score": 52.0,
+    "status": "TAHAN"
+  }
+}

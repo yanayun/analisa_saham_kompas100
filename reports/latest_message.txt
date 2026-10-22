@@ -1,0 +1,42 @@
+📊 REKOMENDASI SAHAM KOMPAS100
+Thursday, 22 October 2026 · 09.59 WIB
+Model: XGBoost terkalibrasi · ambang 32% · data 21 Oct 2026
+Saham dianalisa: 98
+Uji holdout: precision 37.1% vs dasar 28.9% (lift 1.28x) · AUC 0.597
+Backtest holdout: 42.1% vs beli-tahan 48.2% (alpha -6.1%)
+
+🟢 BERPOTENSI BELI (5)
+
+1. IMPC — Rp 840
+   Skor 78/100 · prob 55% · Industri · mean-reversion (model)
+   ⚠️ di bawah MA20 (-31.8%); MA5 di bawah MA20
+   🎯 target Rp 1,063 · 🛑 stop Rp 706 · R:R 1.7
+
+2. CUAN — Rp 505
+   Skor 76/100 · prob 54% · Energi · mean-reversion (model)
+   ⚠️ di bawah MA20 (-32.5%); MA5 di bawah MA20
+   🎯 target Rp 643 · 🛑 stop Rp 422 · R:R 1.7
+
+3. BUVA — Rp 322
+   Skor 73/100 · prob 53% · Konsumsi Siklis · mean-reversion (model)
+   ⚠️ di bawah MA20 (-40.1%); MA5 di bawah MA20
+   🎯 target Rp 437 · 🛑 stop Rp 253 · R:R 1.7
+
+4. PTRO — Rp 3,060
+   Skor 72/100 · prob 52% · Material Dasar · mean-reversion (model)
+   ⚠️ di bawah MA20 (-32.4%); MA5 di bawah MA20
+   🎯 target Rp 3,826 · 🛑 stop Rp 2,600 · R:R 1.7
+
+5. BNBR — Rp 50
+   Skor 72/100 · prob 52% · Industri · mean-reversion (model)
+   ⚠️ di bawah MA20 (-25.7%); MA5 di bawah MA20
+   🎯 target Rp 63 · 🛑 stop Rp 42 · R:R 1.7
+
+📈 TREN TERKUAT (model belum konfirmasi) (7)
+  BUKA (prob 25%), SGER (prob 23%), CTRA (prob 21%), SMIL (prob 30%), PWON (prob 24%), ACES (prob 17%), PGEO (prob 24%)
+
+🟠 PERTIMBANGKAN (7)
+  RATU (71), BIPI (70), INET (68), DEWA (65), ENRG (64), BULL (62), RAJA (62)
+
+—
+Catatan penting: model ini bersifat mean-reversion (mencari saham terjatuh yang berpeluang rebound), sehingga sering bertentangan dengan struktur tren. Pada uji holdout, strategi ini BELUM unggul dibanding beli-tahan -- Angka di atas adalah alat pemantauan, bukan rekomendasi transaksi. Lakukan riset sendiri sebelum membeli.

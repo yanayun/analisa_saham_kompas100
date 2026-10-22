@@ -1,0 +1,146 @@
+Memuat data...
+  AADI: 239 baris
+  ACES: 2,697 baris
+  ADMR: 945 baris
+  ADRO: 2,697 baris
+  AKRA: 2,698 baris
+  AMMN: 581 baris
+  AMRT: 2,698 baris
+  ANTM: 2,698 baris
+  ARCI: 1,075 baris
+  ARTO: 2,437 baris
+  ASII: 2,697 baris
+  BBCA: 2,698 baris
+  BBNI: 2,698 baris
+  BBRI: 2,698 baris
+  BBTN: 2,698 baris
+  BBYB: 2,691 baris
+  BFIN: 2,698 baris
+  BIPI: 2,498 baris
+  BKSL: 1,114 baris
+  BMRI: 2,698 baris
+  BNBR: 866 baris
+  BRIS: 1,860 baris
+  BRMS: 2,698 baris
+  BRPT: 2,698 baris
+  BSDE: 2,697 baris
+  BUKA: 1,047 baris
+  BULL: 2,593 baris
+  BUMI: 2,655 baris
+  BUVA: 2,189 baris
+  CBDK: 216 baris
+  CMRY: 964 baris
+  CPIN: 2,697 baris
+  CTRA: 2,697 baris
+  CUAN: 653 baris
+  DEWA: 2,451 baris
+  DSNG: 2,696 baris
+  ELSA: 2,697 baris
+  EMTK: 2,663 baris
+  ENRG: 2,428 baris
+  ERAA: 2,698 baris
+  ESSA: 2,697 baris
+  EXCL: 2,698 baris
+  GGRM: 2,697 baris
+  GOTO: 878 baris
+  HEAL: 1,855 baris
+  HRTA: 2,089 baris
+  HRUM: 2,698 baris
+  ICBP: 2,697 baris
+  IMPC: 2,690 baris
+  INCO: 2,697 baris
+  INDF: 2,698 baris
+  INDY: 2,698 baris
+  INET: 571 baris
+  INKP: 2,697 baris
+  ISAT: 2,698 baris
+  ITMG: 2,698 baris
+  JPFA: 2,698 baris
+  JSMR: 2,697 baris
+  KIJA: 2,698 baris
+  KLBF: 2,698 baris
+  KPIG: 2,696 baris
+  LSIP: 2,697 baris
+  MAPA: 1,820 baris
+  MAPI: 2,697 baris
+  MBMA: 627 baris
+  MDKA: 2,575 baris
+  MEDC: 2,698 baris
+  MIKA: 2,633 baris
+  MINA: 1,909 baris
+  MYOR: 2,698 baris
+  NCKL: 631 baris
+  PANI: 1,767 baris
+  PGAS: 2,697 baris
+  PGEO: 661 baris
+  PNLF: 2,404 baris
+  PSAB: 2,697 baris
+  PTBA: 2,697 baris
+  PTRO: 2,698 baris
+  PWON: 2,697 baris
+  RAJA: 2,698 baris
+  RATU: 219 baris
+  RMKE: 963 baris
+  SCMA: 2,698 baris
+  SGER: 1,286 baris
+  SMGR: 2,698 baris
+  SMIL: 615 baris
+  SMRA: 2,698 baris
+  SSIA: 2,697 baris
+  TAPG: 1,125 baris
+  TINS: 2,697 baris
+  TLKM: 2,697 baris
+  TOBA: 2,697 baris
+  TOWR: 2,697 baris
+  TPIA: 2,696 baris
+  UNTR: 2,697 baris
+  UNVR: 2,698 baris
+  WIFI: 1,193 baris
+  WIRG: 883 baris
+
+Total baris : 215,314
+Jumlah saham: 98
+Periode     : 2015-10-26 - 2026-10-14
+Target positif: 24.69%
+
+Pembagian data:
+  Train      : 138,632 baris | 2015-10-26 - 2023-05-10
+  Validation : 36,623 baris | 2023-05-19 - 2025-01-17
+  Test       : 39,149 baris | 2025-01-30 - 2026-10-14
+
+Kelas train -> 0: 105,502 | 1: 33,130 | scale_pos_weight: 3.1845
+
+Melatih XGBoost...
+Training selesai. Best iteration: 786
+
+========================================================
+HASIL EVALUASI MODEL
+========================================================
+Ambang probabilitas : 0.320
+Accuracy  : 0.6452
+Precision : 0.3705
+Recall    : 0.3279
+F1-score  : 0.3479
+ROC-AUC   : 0.5972
+Positive rate test: 28.86%
+
+Confusion matrix (baris aktual, kolom prediksi):
+[[21555  6294]
+ [ 7595  3705]]
+
+Fitur paling berpengaruh:
+  atr_pct            0.1373
+  volatility_60      0.0762
+  bb_width           0.0520
+  daily_range        0.0479
+  close_ma5          0.0376
+  dist_high_60d      0.0361
+  close_ma50         0.0360
+  close_ma20         0.0357
+  volatility_20      0.0356
+  close_ma200        0.0332
+
+Model   : models/saham_model.joblib
+Metrik  : results/metrics.json
+Validasi: results/validation_predictions.csv
+Test    : results/test_predictions.csv

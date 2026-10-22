@@ -1,0 +1,105 @@
+100 saham perlu diambil sektornya.
+
+[1/100] AADI: Energy | Thermal Coal
+[2/100] ACES: Consumer Cyclical | Specialty Retail
+[3/100] ADMR: Basic Materials | Coking Coal
+[4/100] ADRO: Energy | Thermal Coal
+[5/100] AKRA: Energy | Oil & Gas Refining & Marketing
+[6/100] AMMN: Basic Materials | Other Precious Metals & Mining
+[7/100] AMRT: Consumer Defensive | Grocery Stores
+[8/100] ANTM: Basic Materials | Gold
+[9/100] ARCI: Basic Materials | Gold
+[10/100] ARTO: Financial Services | Banks - Regional
+[11/100] ASII: Industrials | Conglomerates
+[12/100] BBCA: Financial Services | Banks - Regional
+[13/100] BBNI: Financial Services | Banks - Regional
+[14/100] BBRI: Financial Services | Banks - Regional
+[15/100] BBTN: Financial Services | Banks - Regional
+[16/100] BBYB: Financial Services | Banks - Regional
+[17/100] BFIN: Financial Services | Credit Services
+[18/100] BIPI: Energy | Thermal Coal
+[19/100] BKSL: Real Estate | Real Estate - Development
+[20/100] BMRI: Financial Services | Banks - Regional
+[21/100] BNBR: Industrials | Conglomerates
+[22/100] BRIS: Financial Services | Banks - Regional
+[23/100] BRMS: Basic Materials | Other Industrial Metals & Mining
+[24/100] BRPT: Basic Materials | Chemicals
+[25/100] BSDE: Real Estate | Real Estate - Development
+[26/100] BUKA: Consumer Cyclical | Internet Retail
+[27/100] BULL: Industrials | Marine Shipping
+[28/100] BUMI: Energy | Thermal Coal
+[29/100] BUVA: Consumer Cyclical | Lodging
+[30/100] CBDK: Real Estate | Real Estate Services
+[31/100] CMRY: Consumer Defensive | Packaged Foods
+[32/100] COIN: Financial Services | Financial Data & Stock Exchanges
+[33/100] CPIN: Consumer Defensive | Farm Products
+[34/100] CTRA: Real Estate | Real Estate - Development
+[35/100] CUAN: Energy | Thermal Coal
+[36/100] DEWA: Energy | Thermal Coal
+[37/100] DSNG: Consumer Defensive | Farm Products
+[38/100] ELSA: Energy | Oil & Gas Equipment & Services
+[39/100] EMAS: Basic Materials | Gold
+[40/100] EMTK: Communication Services | Broadcasting
+[41/100] ENRG: Energy | Oil & Gas E&P
+[42/100] ERAA: Consumer Cyclical | Specialty Retail
+[43/100] ESSA: Basic Materials | Chemicals
+[44/100] EXCL: Communication Services | Telecom Services
+[45/100] GGRM: Consumer Defensive | Tobacco
+[46/100] GOTO: Technology | Software - Infrastructure
+[47/100] HEAL: Healthcare | Medical Care Facilities
+[48/100] HRTA: Consumer Cyclical | Luxury Goods
+[49/100] HRUM: Basic Materials | Other Industrial Metals & Mining
+[50/100] ICBP: Consumer Defensive | Packaged Foods
+[51/100] IMPC: Industrials | Building Products & Equipment
+[52/100] INCO: Basic Materials | Other Industrial Metals & Mining
+[53/100] INDF: Consumer Defensive | Packaged Foods
+[54/100] INDY: Energy | Thermal Coal
+[55/100] INET: Communication Services | Telecom Services
+[56/100] INKP: Basic Materials | Paper & Paper Products
+[57/100] ISAT: Communication Services | Telecom Services
+[58/100] ITMG: Energy | Thermal Coal
+[59/100] JPFA: Consumer Defensive | Farm Products
+[60/100] JSMR: Industrials | Infrastructure Operations
+[61/100] KIJA: Real Estate | Real Estate - Development
+[62/100] KLBF: Healthcare | Drug Manufacturers - General
+[63/100] KPIG: Real Estate | Real Estate Services
+[64/100] LSIP: Consumer Defensive | Farm Products
+[65/100] MAPA: Consumer Cyclical | Specialty Retail
+[66/100] MAPI: Consumer Cyclical | Department Stores
+[67/100] MBMA: Basic Materials | Other Industrial Metals & Mining
+[68/100] MDKA: Basic Materials | Other Industrial Metals & Mining
+[69/100] MEDC: Energy | Oil & Gas E&P
+[70/100] MIKA: Healthcare | Medical Care Facilities
+[71/100] MINA: Consumer Cyclical | Lodging
+[72/100] MYOR: Consumer Defensive | Packaged Foods
+[73/100] NCKL: Basic Materials | Other Industrial Metals & Mining
+[74/100] PANI: Real Estate | Real Estate - Development
+[75/100] PGAS: Utilities | Utilities - Regulated Gas
+[76/100] PGEO: Utilities | Utilities - Renewable
+[77/100] PNLF: Financial Services | Banks - Regional
+[78/100] PSAB: Basic Materials | Gold
+[79/100] PTBA: Energy | Thermal Coal
+[80/100] PTRO: Basic Materials | Other Industrial Metals & Mining
+[81/100] PWON: Real Estate | Real Estate - Diversified
+[82/100] RAJA: Utilities | Utilities - Regulated Gas
+[83/100] RATU: Energy | Oil & Gas E&P
+[84/100] RMKE: Energy | Thermal Coal
+[85/100] SCMA: Communication Services | Broadcasting
+[86/100] SGER: Energy | Thermal Coal
+[87/100] SMGR: Basic Materials | Building Materials
+[88/100] SMIL: Industrials | Rental & Leasing Services
+[89/100] SMRA: Real Estate | Real Estate - Development
+[90/100] SSIA: Industrials | Engineering & Construction
+[91/100] TAPG: Consumer Defensive | Farm Products
+[92/100] TINS: Basic Materials | Other Industrial Metals & Mining
+[93/100] TLKM: Communication Services | Telecom Services
+[94/100] TOBA: Energy | Thermal Coal
+[95/100] TOWR: Real Estate | Real Estate Services
+[96/100] TPIA: Basic Materials | Specialty Chemicals
+[97/100] UNTR: Basic Materials | Other Industrial Metals & Mining
+[98/100] UNVR: Consumer Defensive | Household & Personal Products
+[99/100] WIFI: Communication Services | Telecom Services
+[100/100] WIRG: Technology | Information Technology Services
+
+Selesai: 100 berhasil, 0 gagal.
+Tersimpan: data/sectors.json

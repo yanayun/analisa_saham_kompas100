@@ -1,0 +1,20 @@
+========================================================
+HASIL BACKTEST (periode penuh)
+========================================================
+Periode      : 2015-10-26 - 2026-10-21
+Total return : 14380.60%
+CAGR         : 57.28%
+Max drawdown : -35.19%
+Trade        : 5088
+Win rate     : 54.50%
+Profit factor: 1.63
+Buy & hold   : 788.92%
+
+Periode holdout (30% terakhir):
+  Total return : 42.10%
+  Win rate     : 46.74%
+  Trade        : 1594
+  Buy & hold   : 48.16%
+  Alpha        : -6.06%
+
+Tersimpan: results/backtest_metrics.json
