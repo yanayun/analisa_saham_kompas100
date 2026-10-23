@@ -1,0 +1,16 @@
+results/
+reports/
+data/
+myenv/
+__pycache__/
+logs_backtest.txt  
+logs_download.txt  
+logs_predict.txt    
+logs_sectors.txt    
+logs_thresholds.txt
+logs_daily.txt     
+logs_features.txt  
+logs_recommend.txt  
+logs_selection.txt  
+logs_train.txt
+
