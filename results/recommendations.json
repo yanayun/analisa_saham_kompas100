@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10 17:00:49",
+  "generated_at": "2026-11-11 12:00:51",
   "model_threshold": 0.32,
   "scoring": {
     "formula": "50 + 15*z_prob + 20*(teknikal_norm - 0.45)",
